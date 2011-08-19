@@ -1,0 +1,12 @@
+ 	<rootElement>
+	<outerElem outerElem="hi" innerElem="blarg">
+		<![CDATA[Some CData Stuff]]>
+		<![CDATA[Some Other CData Stuff]]>
+		<innerElem>Inner</innerElem>
+		someWords<![CDATA[A third line of CData Stuff]]>
+		<innerElem2>Inner</innerElem2>
+		<innerElem>Inner</innerElem>
+		More Words
+		<tommy>inner text<![CDATA[cdata]]></tommy>
+	</outerElem>
+</rootElement>

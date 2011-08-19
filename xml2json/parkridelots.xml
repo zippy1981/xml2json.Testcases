@@ -1,0 +1,34 @@
+<parkandridelots>
+<parkandridelot latitude="41.09436" longitude="-73.94979" title="West Nyack (Lot 1)" exitid="12" runby="NYSDOT" spaces="232" paved="Yes" lighted="Yes" comments="Located at the NE Corner of Rt. 59 and Rt. 303" />
+<parkandridelot latitude="41.09316" longitude="-73.94970" title="West Nyack (Lot 2)" exitid="12" runby="NYSDOT" spaces="200" paved="Yes" lighted="Yes" comments="Located at the SE Corner of Rt.59 and Rt. 303" />
+<parkandridelot latitude="41.09968" longitude="-73.96232" title="West Nyack (Lot J)" exitid="12" runby="Palisades" spaces="900" paved="Yes" lighted="Yes" comments="Located on Palisades Center Ring Road" />
+<parkandridelot latitude="41.10289" longitude="-74.02979" title="Spring Valley (East Lot)" exitid="14" runby="NYSDOT and Town of Clarkstown" spaces="188" paved="Yes" lighted="Yes" comments="Located at the South Side of Rt. 59 at NYSTA Exit 14" />
+<parkandridelot latitude="41.10358" longitude="-74.02896" title="Spring Valley (North Lot)" exitid="14" runby="NYSDOT and Town of Clarkstown" spaces="225" paved="Yes" lighted="Yes" comments="Located at the North Side of Rt. 59 at NYSTA Exit 14" />
+<parkandridelot latitude="41.10343" longitude="-74.03072" title="Spring Valley (West Lot)" exitid="14" runby="NYSDOT and Town of Clarkstown" spaces="80" paved="Yes" lighted="Yes" comments="Located at the South Side of Rt. 59 at NYSTA Exit 14" />
+<parkandridelot latitude="41.50568" longitude="-74.06309" title="Newburgh" exitid="17" runby="Short Line" spaces="289" paved="Yes" lighted="Yes" comments="Located on Rt. 17K at Union Avenue at the Short Line Bus Station.  Privately maintained by Short Line." />
+<parkandridelot latitude="41.74027" longitude="-74.06242" title="New Paltz" exitid="18" runby="Thruway" spaces="150" paved="Yes" lighted="Yes" comments="Located on the South Side of Rt. 299 at the New Paltz Toll Plaza (16-hour Parking Limit)" />
+<parkandridelot latitude="41.94275" longitude="-74.02749" title="Kingston" exitid="19" runby="NYSDOT" spaces="38" paved="Yes" lighted="Yes" comments="Located off Route 587" />
+<parkandridelot latitude="42.08614" longitude="-73.97564" title="Saugerties South" exitid="20" runby="NYSDOT" spaces="12" paved="No" lighted="No" comments="Located off Routes 32 and 212" />
+<parkandridelot latitude="42.24651" longitude="-73.88515" title="Catskill" exitid="21" runby="Thruway" spaces="98" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="42.85320" longitude="-74.00697" title="Rotterdam" exitid="26" runby="NYSDOT" spaces="55" paved="Yes" lighted="Yes" comments="Located off Route 5" />
+<parkandridelot latitude="42.92455" longitude="-74.20021" title="Amsterdam" exitid="27" runby="Thruway" spaces="100" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.01946" longitude="-74.81862" title="Little Falls" exitid="29A" runby="Thruway" spaces="6" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.01716" longitude="-74.99466" title="Herkimer" exitid="30" runby="Thruway" spaces="17" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.11213" longitude="-75.21065" title="Utica" exitid="31" runby="Thruway" spaces="24" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.12045" longitude="-75.40194" title="Westmoreland" exitid="32" runby="Thruway" spaces="50" paved="Yes" lighted="No" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.12029" longitude="-75.58679" title="Verona" exitid="33" runby="Thruway" spaces="27" paved="Yes" lighted="No" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.08893" longitude="-75.74949" title="Canastota" exitid="34" runby="Thruway" spaces="60" paved="Yes" lighted="No" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.09860" longitude="-76.04788" title="Collamer" exitid="34A" runby="Thruway" spaces="94" paved="Yes" lighted="No" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.09531" longitude="-76.16428" title="Mattydale" exitid="36" runby="Thruway" spaces="12" paved="Yes" lighted="No" comments="1 Hour Parking Limit" />
+<parkandridelot latitude="43.11427" longitude="-76.21399" title="Liverpool" exitid="38" runby="Thruway" spaces="36" paved="Yes" lighted="No" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.11090" longitude="-76.29029" title="Syracuse (State Fair)" exitid="39" runby="NYSDOT" spaces="50" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="43.05885" longitude="-76.55943" title="Weedsport" exitid="40" runby="NYSDOT" spaces="40" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="42.94946" longitude="-76.97677" title="Geneva" exitid="42" runby="NYSDOT" spaces="50" paved="No" lighted="No" comments="Located on Rt. 14.  Parking lot is unlined." />
+<parkandridelot latitude="42.97686" longitude="-77.22779" title="Manchester" exitid="43" runby="Thruway" spaces="28" paved="Yes" lighted="Highmast lighting nearby" comments="16-hour Parking Limit" />
+<parkandridelot latitude="42.98765" longitude="-77.36303" title="Canandaigua" exitid="44" runby="NYSDOT" spaces="92" paved="Yes" lighted="Yes" comments=" " />
+<parkandridelot latitude="43.03330" longitude="-77.96705" title="LeRoy" exitid="47" runby="NYSDOT" spaces="110" paved="Yes" lighted="Yes" comments="Located on I-490 E Exit 1; 0.2 miles.  Trailways bus service, turnaround, shelter, pay phone and portable toilet." />
+<parkandridelot latitude="43.00266" longitude="-78.40682" title="Pembroke" exitid="48A" runby="Thruway" spaces="36" paved="Yes" lighted="Yes" comments="16-hour Parking Limit" />
+<parkandridelot latitude="42.94651" longitude="-78.69770" title="Depew" exitid="49" runby="Thruway" spaces="50" paved="Yes" lighted="No" comments="16-hour Parking Limit" />
+<parkandridelot latitude="42.96059" longitude="-78.75582" title="Williamsville" exitid="50" runby="Niagara Frontier Transportation Authority" spaces="50" paved="Yes" lighted="Yes" comments="Located in the Village of Williamsville.  1.5 miles from I-90 - Exit 50. Directions: Exit 50 to I-290 West to Exit 7B, Route 5 East.  Turn right (Approx. 1/2 mile) at 3rd light to Union Road (Route 240). The lot is on the right." />
+<parkandridelot latitude="42.47574" longitude="-73.68258" title="Post Road" exitid="B1" runby="NYSDOT" spaces="23" paved="Yes" lighted="No" comments="Located 1.5 Miles south on Route 9" />
+</parkandridelots>
