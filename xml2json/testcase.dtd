@@ -1,0 +1,11 @@
+<!DOCTYPE contact
+[
+<!ELEMENT contact (name,address,city,region,postal)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT postal (#PCDATA)>
+]>
+<contact>
+</contact>

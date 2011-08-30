@@ -1,4 +1,4 @@
- 	<rootElement>
+<rootElement>
 	<outerElem outerElem="hi" innerElem="blarg">
 		<![CDATA[Some CData Stuff]]>
 		<![CDATA[Some Other CData Stuff]]>

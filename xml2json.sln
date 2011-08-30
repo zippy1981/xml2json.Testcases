@@ -1,6 +1,6 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xml2json", "xml2json\xml2json.csproj", "{2F293428-1AC9-475C-BB3A-C064CD3CB3FC}"
 EndProject
 Global
@@ -13,6 +13,9 @@ Global
 		{2F293428-1AC9-475C-BB3A-C064CD3CB3FC}.Debug|x86.Build.0 = Debug|x86
 		{2F293428-1AC9-475C-BB3A-C064CD3CB3FC}.Release|x86.ActiveCfg = Release|x86
 		{2F293428-1AC9-475C-BB3A-C064CD3CB3FC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = xml2json\xml2json.csproj
