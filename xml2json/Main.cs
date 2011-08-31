@@ -61,7 +61,10 @@ namespace xml2json
         [Test]
         public void TestTestCaseDtd()
         {
-            Console.WriteLine("JSON: {0}", XmlFileToJson("testcase.dtd"));
+            var xml = new XmlDocument();
+            xml.Load("testcase.dtd");
+            Console.WriteLine("Doctype Name: {0} Value{1}", xml.DocumentType.Name, xml.DocumentType.Value);
+            Console.WriteLine("Child count: {0}", xml.DocumentType.ChildNodes.Count);
         }
 
         [Test]
