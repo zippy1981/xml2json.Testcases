@@ -65,7 +65,7 @@ namespace xml2json
             xml.Load("testcase.dtd");
             Console.WriteLine("Doctype Name: {0} Value{1}", xml.DocumentType.Name, xml.DocumentType.Value);
             Console.WriteLine("Child count: {0}", xml.DocumentType.Attributes);
-			foreach (XmlNode dtdNode in xml.DocumentType.Attributes) {
+			foreach (XmlNode dtdNode in xml.DocumentType.Notations) {
 				Console.WriteLine("Name: {0} Value: {1} Xml: {2}", dtdNode.Name, dtdNode.Value, dtdNode.OuterXml);
 			}
         }

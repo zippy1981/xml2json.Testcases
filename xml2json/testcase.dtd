@@ -6,6 +6,7 @@
 <!ELEMENT city (#PCDATA)>
 <!ELEMENT region (#PCDATA)>
 <!ELEMENT postal (#PCDATA)>
+<!NOTATION zippy PUBLIC "Justin Dearing">
 ]>
 <contact>
 </contact>
