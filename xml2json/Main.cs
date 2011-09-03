@@ -55,17 +55,17 @@ namespace xml2json
         {
             Console.WriteLine("JSON: {0}", XmlFileToJson("testcase.xml"));
         }
-
-
-
-        [Test]
+		
+		[Test]
         public void TestTestCaseDtd()
         {
             var xml = new XmlDocument();
             xml.Load("testcase.dtd");
             Console.WriteLine("Doctype Name: {0} Value{1}", xml.DocumentType.Name, xml.DocumentType.Value);
             Console.WriteLine("Child count: {0}", xml.DocumentType.Attributes);
-			foreach (XmlNode dtdNode in xml.DocumentType.Notations) {
+			foreach (XmlNotation dtdNode in xml.DocumentType.Notations) {
+				//dtdNode.SystemId = "Justin Dearing";
+				//dtdNode.PublicId = "zippy das wunder squirrillen";
 				Console.WriteLine("Name: {0} Value: {1} Xml: {2}", dtdNode.Name, dtdNode.Value, dtdNode.OuterXml);
 			}
         }

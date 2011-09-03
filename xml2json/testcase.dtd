@@ -7,6 +7,7 @@
 <!ELEMENT region (#PCDATA)>
 <!ELEMENT postal (#PCDATA)>
 <!NOTATION zippy PUBLIC "Justin Dearing">
+<!NOTATION zippy2 SYSTEM "zippy da wunder squirillen">
 ]>
 <contact>
 </contact>
